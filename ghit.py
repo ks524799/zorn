@@ -3,3 +3,4 @@
 
 print("zorn")
 print("かっこいい")
+print("So cool!!")
